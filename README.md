@@ -1,4 +1,4 @@
-# CISC-210-ROLLING-DICE
+# ROLLING-DICE
 ## DESCRIPTION
 This project is for system's programming in C language.
 This project uses the sense hat’s inputs and the sense hats led matrix. The project uses the libsense library.
