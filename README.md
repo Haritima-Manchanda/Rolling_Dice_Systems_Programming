@@ -1,6 +1,6 @@
 # ROLLING-DICE
 ## DESCRIPTION
-This project is for system's programming in C language.
+
 This project uses the sense hat’s inputs and the sense hats led matrix. The project uses the libsense library.
 
 1. The program simulates a set of four 6 sided dice. To roll the dice, the user will shake the raspberry pi. 
